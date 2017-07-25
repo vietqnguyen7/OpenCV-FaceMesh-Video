@@ -1,0 +1,2 @@
+ g++ -c -Wall -Werror -fPIC CPPfile.cpp
+$ g++ -shared -o libCPPfile.so CPPfile.o
